@@ -1,3 +1,5 @@
-Hi, this is my Github
+Hi I'm Uzair Mohammed
 
-Have a nice day 🙂
+I like to learn math and experiment with AI
+Sometimes, I make apps
+
