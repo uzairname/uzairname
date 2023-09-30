@@ -10,3 +10,12 @@ I like to learn math and experiment with AI
 
 Sometimes, I make apps
 
+<h2 align="center"> Stats </h2>
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzairname"/>
+<!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzairname)](https://github.com/uzairname/github-readme-stats) -->
+</div> 
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairname&layout=compact" />
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairname&layout=compact)](https://github.com/uzairname/github-readme-stats) -->
+</div>
