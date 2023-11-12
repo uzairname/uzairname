@@ -1,3 +1,7 @@
+![image](https://github.com/uzairname/uzairname/assets/23709618/9a622774-218f-4551-9b37-542721d5f547)
+
+
+
 <div align=center>
         <a href="https://www.linkedin.com/in/uzair-m/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>    
       <a href="mailto:uzair.m6d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20px" /></a> 
