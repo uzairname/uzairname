@@ -14,6 +14,8 @@ I like to learn math and experiment with AI
 
 Sometimes, I make apps
 
+I am studying for a B.S. in data science
+
 <h2 align="center"> Stats </h2>
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzairname"/>
