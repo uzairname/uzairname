@@ -8,13 +8,13 @@
          <a href="https://github.com/uzairname"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github" height="20px" /></a>
 </div>
 
-Hi I'm Uzair Mohammed
+Hi I'm Uzair Mohammed. 
 
-I like to learn math and experiment with AI
+Undergraduate studying data science and mathematics.
 
-Sometimes, I make apps
+I'm fascinated by "artificial intelligence". I don't think AI is just a field of computer science or a business tool. It's an age-old reflection on humanity. For the first time, engineers can formalize and experiment with centuries of theory in philosophy and cognitive science, seeing their real-time consequences on massive scales. Our path to AGI forces us to confront bizarre questions about the human experience, complex systems (from governments to cells), intelligence, and morality.
 
-I am studying for a B.S. in data science
+What does it *really* mean to reason, feel, and care like a human? How can we tell if something has an internal experience? What is the purpose of life, what's the goal of the universe, what *is* ethical, and how do we know if we're right? I argue that these questions, which for centuries have been distant philosophical musings, are likely to take on a shocking pragmatic significance in the next few centuries as we expand the scope and capabilities of AI technology.
 
 <h2 align="center"> Stats </h2>
 <div align="center"> 
